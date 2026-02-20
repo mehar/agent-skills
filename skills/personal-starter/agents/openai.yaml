@@ -1,0 +1,5 @@
+version: 1
+interface:
+  display_name: Personal Starter
+  short_description: Baseline template for creating new personal skills.
+  default_prompt: Use this skill structure to create a new, concise, triggerable agent skill.
