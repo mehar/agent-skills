@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pandoc MD to HTML"
+  short_description: "Convert Markdown to browser-ready HTML."
+  default_prompt: "Use $pandoc-md-to-html to convert my markdown file to HTML with Mermaid rendering enabled."
